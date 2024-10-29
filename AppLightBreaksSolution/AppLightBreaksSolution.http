@@ -1,0 +1,6 @@
+@AppLightBreaksSolution_HostAddress = http://localhost:5093
+
+GET {{AppLightBreaksSolution_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
